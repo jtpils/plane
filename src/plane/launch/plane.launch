@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="plane" name="plane" type="plane_node" output="screen"/>
+</launch>
